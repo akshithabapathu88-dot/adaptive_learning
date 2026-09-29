@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+reportlab
+sqlalchemy
+pandas
+numpy
+python-dotenv
+requests
+plotly
+Pillow

@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.streamlit/secrets.toml
+chroma_db/
+reports/*.pdf
+*.log
+.DS_Store
+.idea/
+.vscode/
+__MACOSX/
